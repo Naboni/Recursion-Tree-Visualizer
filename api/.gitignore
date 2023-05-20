@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+dist/
+
+# Environment variables
+.env
+
+# TypeScript generated files
+*.js
+*.js.map
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+
+# Logs
+logs/
+*.log
+
+# Build artifacts
+build/
+out/
+
+# Testing artifacts
+coverage/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
